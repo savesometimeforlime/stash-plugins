@@ -4,7 +4,10 @@ Add the following as a Source in your Stash Server: `(https://savesometimeforlim
 
 ## Plugins
 
-- **[aspectratio](https://github.com/savesometimeforlime/aspectratio):** A fork of [scruffynerf/aspectratio](https://github.com/) that is modified to work with modern versions of Stash.
+- **[aspectratio](https://github.com/savesometimeforlime/aspectratio):** A fork of [scruffynerf/aspectratio](https://github.com/scruffynerf/aspectratio) that is modified to work with modern versions of Stash.
+
+    > [!WARNING]
+    > **Back up your database before using this plugin!** I used an LLM to update the code to work with modern Stash versions, and it has **NOT** been properly tested.
 
 <!-- ## Share your plugins
 
