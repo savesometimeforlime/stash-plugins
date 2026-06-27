@@ -1,0 +1,3 @@
+[submodule "plugins/aspectratio"]
+	path = plugins/aspectratio
+	url = https://github.com/savesometimeforlime/aspectratio.git
